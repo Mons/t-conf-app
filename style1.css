@@ -45,6 +45,10 @@ h1, h2, h3 {
 	/*display: none;*/
 }
 
+.first .remark-slide-number  {
+	display: none;
+}
+
 .red {
 	color: #ed4043;
 }
