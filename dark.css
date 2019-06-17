@@ -1,0 +1,54 @@
+.remark-slide-content {
+	background-color: #333333;
+	/*color: #777872;*/
+	color: white;
+	/*text-shadow: 0 0 20px #333;*/
+}
+
+h1, h2, h3 {
+	/*color: #f3f3f3;*/
+	color: #e2e2e2;
+	line-height: 0.8em;
+}
+
+.red {
+	color: #FF4444;
+}
+.green {
+	color: #44FF44;
+}
+
+* code.remark-code.hljs {
+    /*background: linear-gradient(to right, rgba(34,34,34,1) 0%,rgba(34,34,34,1) 70%,rgba(34,34,34,0) 90%);*/
+    /*background: linear-gradient(to right, rgba(34,34,34,1) 0%,rgba(34,34,34,1) 98%,rgba(255,0,0,0.1) 98%, rgba(255,0,0,0) 100%);*/
+    box-shadow: 0 0 30px 10px rgba(255,0,0,0.3);
+    border-radius: 5px;
+}
+
+.remark-code-line-highlighted, .remark-code-span-highlighted {
+	background-color: rgba(200, 0, 0, 0.5);
+    box-shadow: 0 0 15px 5px rgba(200,0,0,0.3);
+}
+
+.not .remark-code-line-highlighted, .not .remark-code-span-highlighted {
+    background-color: rgba(255, 0, 0, 0.4)
+    box-shadow: 0 0 15px 5px rgba(255,0,0,0.3);
+}
+
+.highlighted code {
+    background-color: rgba(255, 255, 0, 0.5);
+}
+
+.highlighted-red code {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.blur {
+    background: #bfbfbf;
+}
+
+/*
+.remark-slide-content .nohighlight code {
+	color: #ebdbb2;
+}
+*/
