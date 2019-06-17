@@ -621,6 +621,14 @@
 .bottom99 { bottom: 99%; }
 .bottom100 { bottom: 100%; }
 
+.left-auto {
+	left: auto;
+}
+
+.right-auto {
+	right: auto;
+}
+
 .margin-auto {
 	margin: auto;
 }
