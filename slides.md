@@ -1562,7 +1562,18 @@ tarantool> kit.node()
 ## https://github.com/moonlibs/config
 ]
 
+---
 
+# Как попробовать?
+
+
+.absolute.left15.right15.top30[
+```nohighlight
+$ luarocks install tarantoolapp
+
+$ tarantoolapp create --template=universal myapp
+```
+]
 
 ---
 class:first
