@@ -161,11 +161,7 @@ li pre { margin: 0; }
 	width:155px;
 }
 
-
-
-
-
-
-
-
+.color-white, .color-white a {
+	color: white;
+}
 

@@ -345,3 +345,7 @@ code {
     margin: 0 !important;
     
 }
+
+a:visited {
+    color: rgb(0,0,238);
+}

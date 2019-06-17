@@ -34,7 +34,7 @@ layout:true
       ![](style/mcs.svg)
    ]
    .absolute.left20.top0[
-      mons.github.io/t-conf-app
+      [mons.github.io/t-conf-app](https://mons.github.io/t-conf-app)
    ]
 ]
 
@@ -1381,7 +1381,7 @@ tarantool> package.reload()
 ```nohighlight
 > box.info
 ---
-- version: 1.6.9-93-g54ff183
+- version: `1.6.9`-93-g54ff183
   status: running
   uptime: 26347645    `<----- 304 дня`
   vclock:
@@ -1556,8 +1556,11 @@ tarantool> kit.node()
 
 # Как попробовать?
 
-## github.com/moonlibs/baselayout
-## github.com/moonlibs/tarantoolapp
+.absolute.left25.right25.top30[
+## https://github.com/moonlibs/tarantoolapp
+## https://github.com/moonlibs/baselayout
+## https://github.com/moonlibs/config
+]
 
 
 
@@ -1569,8 +1572,12 @@ layout:false
 
 # Вопросы?
 
-#### http://github.com/tarantool<br>http://github.com/moonlibs
+#### https://github.com/tarantool<br>https://github.com/moonlibs
 
 ## Mons Anderson
 ## Mail.ru Cloud Solutions
+]
+
+.absolute.bottom1.left20.color-white[
+[mons.github.io/t-conf-app](https://mons.github.io/t-conf-app)
 ]
